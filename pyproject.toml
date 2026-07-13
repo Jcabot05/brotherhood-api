@@ -1,0 +1,15 @@
+[project]
+name = "brotherhood-api"
+version = "1.0.0"
+description = "REST API de gestión de citas para la barbería TheBrotherhood — Proyecto 03, Desarrollo de Aplicaciones Web"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi[standard]==0.139.0",
+    "pydantic[email]",
+    "python-dotenv",
+    "sqlalchemy",
+    "psycopg[binary]",
+]
+
+[tool.fastapi]
+entrypoint = "main:app"
