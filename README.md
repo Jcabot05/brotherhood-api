@@ -1,6 +1,6 @@
 # TheBrotherhood — API de gestión de citas
 
-REST API para la gestión de citas de la barbería **TheBrotherhood**.
+REST API para la gestión de citas de la barbería **TheBrotherhood**
 
 **Proyecto 03 — Desarrollo de Aplicaciones Web**
 Integrantes: Alejandro Tapia · Jeremías Cabot
